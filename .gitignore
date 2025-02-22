@@ -1,0 +1,9 @@
+bin/
+*.idea/
+.vscode/
+.history
+*.DS_Store
+
+*.envrc
+.direnv
+.env
